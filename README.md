@@ -17,3 +17,6 @@ https://docs.google.com/document/d/1PoVHjcz_SwN_9uboxH4YVW8nqubchYGYVlgFiIQNOrI/
 * [‘정부혁신제안 해커톤’ 열린다](https://www.venturesquare.net/783739)
 * [행안부 온라인 국민제안창구 개선 해커톤 개최 | 한경닷컴](https://www.hankyung.com/society/article/201906257123Y)
 * [국민제안으로 정부혁신…행안부 해커톤 - 매일경제](https://www.mk.co.kr/news/society/view/2019/06/455796/)
+
+## 2019 한국 인터넷 거버넌스 포럼(KrIGF)
+* 발표자료 : http://bit.ly/kr-igf-innogov 
